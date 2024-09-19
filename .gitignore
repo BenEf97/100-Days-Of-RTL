@@ -11,3 +11,15 @@ Day1/work/day1_tb/verilog.prw
 Day1/work/day1_tb/_primary.vhd
 Day1/work/day1_tb/_primary.dbs
 Day1/work/day1_tb/verilog.psm
+Day2/work/_info
+Day2/work/_vmake
+Day2/work/day2/_primary.dat
+Day2/work/day2/_primary.dbs
+Day2/work/day2/_primary.vhd
+Day2/work/day2/verilog.prw
+Day2/work/day2/verilog.psm
+Day2/work/day2_tb/_primary.dat
+Day2/work/day2_tb/_primary.dbs
+Day2/work/day2_tb/_primary.vhd
+Day2/work/day2_tb/verilog.prw
+Day2/work/day2_tb/verilog.psm
